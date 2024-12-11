@@ -1,2 +1,3 @@
 # MovieDatabase
-extra credit project for software design
+
+in the View package run **Main.java**.
